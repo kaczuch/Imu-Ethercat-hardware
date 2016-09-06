@@ -191,211 +191,240 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document10]
+DocumentPath=ImuAnybus.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for ImuAnybus\BOM\Bill of Materials-ImuAnybus.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project Outputs for ImuAnybus\BOM\Bill of Materials-ImuAnybus.txt
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for ImuAnybus\BOM\Bill of Materials-ImuAnybus.xls
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ImuAnybus\Design Rule Check - MainBoard.html
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottomoverlay\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottompaste\features
+DocumentPath=Project Outputs for ImuAnybus\Design Rule Check - MainBoard.html
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottomsolder\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottomoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\keepout\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical1\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical13\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical15\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\keepout\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\plane1\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical1\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\plane2\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical13\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical15\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\topoverlay\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\plane1\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\toppaste\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\plane2\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\topsolder\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for ImuAnybus\NC Drill\MainBoard.DRR
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\topoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.EXTREP
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.EXTREP
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\topsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GBL
+DocumentPath=Project Outputs for ImuAnybus\NC Drill\MainBoard.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GBO
+DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GBP
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GBS
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GKO
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GM1
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GM13
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GM15
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GP1
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GP2
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GPB
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GPT
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GTL
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GTO
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GTP
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GTS
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for ImuAnybus\NC Drill\MainBoard.LDP
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.REP
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for Free Documents\ODB\MainBoard.REP
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.REP
+DocumentPath=Project Outputs for ImuAnybus\NC Drill\MainBoard.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.RUL
+DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.REP
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.RUL
+DocumentPath=Project Outputs for Free Documents\ODB\MainBoard.REP
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for ImuAnybus\NC Drill\MainBoard.TXT
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.REP
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\matrix\matrix
+DocumentPath=Project Outputs for Free Documents\Gerber\MainBoard.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for ImuAnybus\Gerber\MainBoard.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\profile
+DocumentPath=Project Outputs for ImuAnybus\NC Drill\MainBoard.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for Free Documents\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument52]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -407,6 +436,45 @@ ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
 OutputJobsCount=0
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=0
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
