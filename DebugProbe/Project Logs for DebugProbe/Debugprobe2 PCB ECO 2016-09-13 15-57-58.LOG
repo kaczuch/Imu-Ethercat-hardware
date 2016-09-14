@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=101 Pin=-155
+Added Pin To Net: NetName=101 Pin=-101
+Added Pin To Net: NetName=155 Pin=-155
+Added Room: Name=debugprobe2

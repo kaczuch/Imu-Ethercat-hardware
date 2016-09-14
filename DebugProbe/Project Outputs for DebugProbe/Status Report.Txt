@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Debugprobe2.PcbDoc]
+   Generated File[Debugprobe2.TXT]
+   Generated File[Debugprobe2.LDP]
+   Generated File[Debugprobe2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:06:51 On 2016-09-14

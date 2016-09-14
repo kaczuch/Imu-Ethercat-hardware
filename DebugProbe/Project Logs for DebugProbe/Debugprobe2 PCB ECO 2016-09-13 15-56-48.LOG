@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=101 Pin=1-155
+Added Pin To Net: NetName=101 Pin=1-101
+Added Pin To Net: NetName=156 Pin=J12-6
+Added Pin To Net: NetName=155 Pin=1-155
+Added Pin To Net: NetName=155 Pin=J12-5
+Added Net: Name=155
