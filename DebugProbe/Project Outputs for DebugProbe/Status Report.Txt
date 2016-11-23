@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [Debugprobe2.PcbDoc]
-   Generated File[Debugprobe2.TXT]
-   Generated File[Debugprobe2.LDP]
-   Generated File[Debugprobe2.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:33:58 On 2016-10-03
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [DebugProbe.PrjPcb]
+   Generated File[Bill of Materials-DebugProbe.xls]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 17:06:51 On 2016-09-14
+Finished Output Generation At 12:33:58 On 2016-10-03

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Debugprobe2.PcbDoc   2016-09-14  17:06:51
+NCDrill File Report For: Debugprobe2.PcbDoc   2016-09-19  13:57:28
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,15 +7,15 @@ ASCII RoundHoles File : Debugprobe2.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             107       PTH        221.16mm (8.71inch)
+T1      0.2mm (8mil)                                              Round             108       PTH        225.92mm (8.89inch)
 T2      0.9mm (35mil)                                             Round             60        PTH        270.68mm (10.66inch)
 T3      3mm (118mil)                                              Round             2         PTH        33.00mm (1.30inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              169
+Totals                                                                              170
 
 Two holes at same point : 2
 -----------------------
-3182,2075
-3182,3375
+2152,-2815
+2152,-1515
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
